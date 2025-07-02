@@ -7,7 +7,7 @@ description: La Wallet la plus simple pour démarrer
 ce tutoriel a été rédigé par_ [Bitcoin Campus] (https://linktr.ee/bitcoincampus_)
 
 
-## Téléchargement, configuration et utilisation de Wallet de Satoshi
+## Téléchargement, configuration et utilisation de Wallet de Satoshi 
 
 
 Wallet de Satoshi est un Lightning Network Wallet, de garde, et très simple d'utilisation.
