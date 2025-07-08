@@ -32,7 +32,7 @@ Théo; Contribution
 
 :::video id=de7236a0-2985-41ef-86f7-3fa0b7f94531:::
 
-**Objectif : remise à jour !**
+**Objectif : Remise à jour !**
 
 Bienvenue à tous dans ce programme d'enseignement consacré à la sécurité numérique. Cette formation est conçue pour être accessible à tous, aucun prérequis en informatique n'est donc nécessaire. Notre objectif principal est de vous fournir les connaissances et les compétences nécessaires pour naviguer de manière plus sûre et plus privée dans le monde numérique.
 
